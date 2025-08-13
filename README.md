@@ -1,2 +1,2 @@
 # test
-Repositorio de prueba para hacer lio
+Repositorio de prueba para hacer pruebas
